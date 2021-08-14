@@ -60,7 +60,7 @@ Descargar Zip y Crear Folder en C:\maven
 Confiugrar las variables de entorno MAVEN_HOME y M2_HOME al directorio de la versión. 
 Setear PATH a apuntar a %MAVEN_HOME% bin
 
-![[Pasted image 20210814133858.png]]
+![image](https://user-images.githubusercontent.com/6970646/129458829-6c78b9b3-365f-444d-9309-ec4e54efbb3d.png)
 
 https://maven.apache.org/download.cgi 
 
